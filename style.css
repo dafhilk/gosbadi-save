@@ -1,9 +1,38 @@
-table{
+/* table{
     background: #E2F1FB;
     padding: 20px;
     color: #001B39;
 }
 td{
     padding: 10px;
-    border: 2px solid #97E5D2;
-}
+    border: solid #97E5D2;
+ } */
+ table{
+    color: #001B48;
+    background-color  : #E2F1FB;
+    border-collapse: collapse;
+
+ }
+ td{
+    border: 1px solid #96E5D2;
+    padding: 5px;
+ }
+ thead{
+    font-weight: 900;
+    font-size: 15px;
+    text-align: center;
+ }
+ .the_code_1{
+    font-weight: 900; 
+ }
+ .the_code_td2{
+    text-align: left;
+ }
+ caption{
+    font-size: 900;
+    font-size: 30px;
+    color: rgb(184, 235, 3);
+    margin: 15px;
+ }
+     
+    
