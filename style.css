@@ -1,32 +1,9 @@
-/* 
-table {
-    background: #EEEAE0;
-}
-td{
-    border: 5px solid #EEEAE0;
-    padding: 10px;;
-}
-tbody{
-    background: #FFD8BF;
-} */
 table{
-    background: #EEEAE0;
+    background: #E2F1FB;
     padding: 20px;
-    color: #656670;
-    border-radius: 20px;
-}
-tbody td{
-    background: #FFD8BF;
+    color: #001B39;
 }
 td{
     padding: 10px;
-    width: 80px;
-    border: 2px solid #EEEAE0;
-}
-.code_1{
-    width: 155px;
-}
-caption{
-margin-bottom: 10px;
-text-align: left;
+    border: 2px solid #97E5D2;
 }
